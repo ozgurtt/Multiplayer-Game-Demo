@@ -1,0 +1,6 @@
+node_modules
+.DS_Store*
+public/javascripts/*
+public/stylesheets/*
+lib/
+Makefile
